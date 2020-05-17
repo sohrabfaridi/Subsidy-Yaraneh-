@@ -1,6 +1,6 @@
 # Subsidy-Yaraneh-
 <p>
-My data is related with some properties of households in States: Hamedan, Qom, Qazvin, Alborz.
+My data is related with some properties of households in States: Hamedan, Qom, Qazvin, Alborz.<br>
 The goal is not to subsidize the households which are in 3 decile of richer households. So this means predicting True positive is more important.
 </p>
 <p>
